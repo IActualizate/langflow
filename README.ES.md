@@ -32,6 +32,7 @@
 
 <div align="center">
   <a href="./README.md"><img alt="README en inglés" src="https://img.shields.io/badge/English-d9d9d9"></a>
+    <a href="./README.ES.md"><img alt="README en español" src="https://img.shields.io/badge/Spanish-d9d9d9"></a>
   <a href="./README.PT.md"><img alt="README en portugués" src="https://img.shields.io/badge/Portuguese-d9d9d9"></a>
   <a href="./README.zh_CN.md"><img alt="README en chino simplificado" src="https://img.shields.io/badge/简体中文-d9d9d9"></a>
   <a href="./README.ja.md"><img alt="README en japonés" src="https://img.shields.io/badge/日本語-d9d9d9"></a>
